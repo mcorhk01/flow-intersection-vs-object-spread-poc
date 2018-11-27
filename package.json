@@ -1,0 +1,10 @@
+{
+  "name": "flow-intersection-vs-object-spread-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "flow-bin": "^0.86.0"
+  }
+}
