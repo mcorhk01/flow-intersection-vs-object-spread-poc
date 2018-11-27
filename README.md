@@ -1,6 +1,6 @@
 # flow-intersection-vs-object-spread-poc
 
-There are no object spread in flow-type! You should use intersection type instead
+object type spread in flow is a 伏
 
 Install
 
