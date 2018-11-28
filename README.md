@@ -8,4 +8,4 @@ Install
 yarn install
 ```
 
-Checkout `index.js` and run `yarn flow`
+Run `yarn flow` and checkout those `example.js`
